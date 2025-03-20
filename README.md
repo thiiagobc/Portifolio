@@ -11,5 +11,5 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns projetos que desenvolvi 
 Estou aprendendo programação focado em HTML, CSS e JavaScript. Busco minha primeira oportunidade na área!  
 
 ## Contato  
-- [LinkedIn](www.linkedin.com/in/thiiagobc)  
-- [GitHub](https://github.com/thiiagobc) 
+- (www.linkedin.com/in/thiiagobc)  
+- (https://github.com/thiiagobc) 
